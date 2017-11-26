@@ -1,17 +1,18 @@
 Chevon Greulich
+
 PSC 561 Box 836 FPO AP 96310 | 080-4108-0827 | hzmcsg@yahoo.com
+
 Professional Summary
+
  Very energetic and friendly professional with 15 years of experience in the childcare industry. Reliable and talented at creating a safe, stimulating environment for young children. Driven to inspire and teach children to be respectful, patient and positive. Approachable and successful at making children and parents feel at ease. Previous supervisor experience and knowledge through leading others to perform activities and encouraging them to learn and develop social interaction skills. Versatile and trained in both early childhood education development and school age care while offering children a unique and dynamic range of daily activities.
 Skills & Abilities
 
- 
 •	Certified in Early Childhood Education DOD Modules			
 •	Licensed Childcare provider
 •	First Aid and CPR Certified
 •	Familiarization with office automation software
 •	Report Development
 •	Database management
-
 •	Food handling preparation
 •	Team building
 •	Effective team leader
@@ -20,13 +21,20 @@ Skills & Abilities
 •	People, Detail, and Customer service oriented
 •	Works well under pressure
  
-
 Work Experience
+
 SCHOOL AGE CARE PROGRAM LEAD | CHILDREN AND YOUTH PROGRAMS MCCS IWAKUNI JAPAN | 12/2015-PRESENT
-Used approved child guidance and care giving techniques that support overall program objectives. Maintain continuous observation of up to 80 children to detect early signs of distress or abnormal behavior. Ensured the enrichment of the classroom by providing the appropriate teacher- made materials and exhibits of children artwork. Create a pleasant, safe and developmentally appropriate environment. Trained 6 new employees how to run the classrooms and to access the development of the youth through consent supervision. 
+
+Used approved child guidance and care giving techniques that support overall program objectives. Maintain continuous observation of up to 80 children to detect early signs of distress or abnormal behavior. Ensured the enrichment of the classroom by providing the appropriate teacher- made materials and exhibits of children artwork. Create a pleasant, safe and developmentally appropriate environment. Trained 6 new employees how to run the classrooms and to access the development of the youth through consent supervision.
+
 Selected Contributions: 
-•	Acting School Age Care Director- As Acting Director I implanted the Marine Corps and DOD policies and guidance by ensuring that required records and data were maintained for 102 youth and 9 employees. Interacted professionally with employees, parents, volunteers and local installation command personnel. Maintained records on 9 employees and ensured all trainings were up-to-date and documented.
+
+•	Acting School Age Care Director-
+
+As Acting Director I implanted the Marine Corps and DOD policies and guidance by ensuring that required records and data were maintained for 102 youth and 9 employees. Interacted professionally with employees, parents, volunteers and local installation command personnel. Maintained records on 9 employees and ensured all trainings were up-to-date and documented.
+
 •	Acting Resource and Referral Operations Clerk
+
 Served as the initial point of contact for inquiries regarding school age care services. Oversees in the enrollment procedures of 180 children, to include payment calculation and reviewing all documents to ensure the properly filled out.  Managed how many children came in and out of the center.
 
 
@@ -60,12 +68,10 @@ Managed an in-home daycare with 2 infants, 5 toddlers, 6 school- aged children. 
 Earned my Child Development Associate.
 Became a National Accredited Family Child Care Provider.  
 
-
 EDUCATION:
+
 University of Maryland University College- 2017- Present 3 credits Major- General studies
 Craven Community College- 2010 - 4 credits EDU 119
-
-
 
 Certifications
 
@@ -75,3 +81,5 @@ Certifications
 •	MCCS Safety, Health/Sanitation Certification (2017)
 •	Naval Correspondence (2016)
 •	Cash Handling Training (2016)
+
+[GitHub](https://github.com/chevyanng/chevyanng.github.io/blob/master/index.md "To the site")
