@@ -82,4 +82,4 @@ Certifications
 •	Naval Correspondence (2016)
 •	Cash Handling Training (2016)
 
-[GitHub INDEX](https://github.com/chevyanng/chevyanng.github.io/blob/master/index.md "To the site")
+[GitHub Index.md](https://github.com/chevyanng/chevyanng.github.io/blob/master/index.md "To the site")
