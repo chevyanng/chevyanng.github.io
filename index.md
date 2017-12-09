@@ -1,6 +1,6 @@
 ## Bows and More By Chev
 
-[Bio](https://github.com/chevyanng/chevyanng.github.io/blob/master/Bio.html "To the site")
+[Bio](https://github.com/chevyanng/chevyanng.github.io/blob/master/Bio.md "To the site")
 
 [Topic](https://github.com/chevyanng/chevyanng.github.io/blob/master/topic.md "To the site")
 
